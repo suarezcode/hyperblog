@@ -1,1 +1,3 @@
 Este es un archivo de pruebas, segundo cambio
+
+Aquí puedo practicar cómo utilizar git
