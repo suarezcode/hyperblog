@@ -4,4 +4,4 @@ Aquí puedo practicar cómo utilizar git
 
 Nuevo cambio
 
-Este cambio lo hice cuando estaba con Evelyn
+Este cambio lo hice cuando estaba junto a Evelyn
